@@ -1,6 +1,6 @@
 # Portfolio
 
- This React App project doubled as both my Capstone for my Software Engineering Program as well as being a deliverable for its accompanying outcomes post-course program. This portfolio is a bit simple now but will have frequent updates to both its content (as new projects are made and deployed) and its design (as i get better at ux/ui). This is not a full MERN Stack Application as I am not using a database and have no data entities.
+ This React App project doubled as both my Capstone for my Software Engineering Program as well as being a deliverable for its accompanying outcomes post-course program. This portfolio is built around a tutorial found on FreeCodeCamp (link below) and will have frequent updates to both its content (as new projects are made and deployed) and its design (as i get better at ux/ui). This is not a full MERN Stack Application as I am not using a database and have no data entities.
 
  ## Tech Used:
  React, Javascript, Tailwind CSS, dotenv, Express, Node
@@ -28,6 +28,10 @@ https://trello.com/b/KChekzQv/react-tw-portfolio
 Live link:
 
 https://jamalmayon.me/
+
+Tutorial:
+
+https://www.freecodecamp.org/news/build-portfolio-website-react/
 
 ## Screenshots:
 
