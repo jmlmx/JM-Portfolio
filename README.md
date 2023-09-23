@@ -31,11 +31,11 @@ https://jamalmayon.me/
 
 ## Screenshots:
 
-![Screenshot 1 widescreen](public/screenshot 1 widescreen.png)
+![Screenshot 1 widescreen](https://github.com/jmlmx/JM-Portfolio/blob/main/public/screenshot%201%20widescreen.png?raw=true)
 
-![Screenshot 2 responsive](public/screenshot 2 responsive.png)
+![Screenshot 2 responsive](https://github.com/jmlmx/JM-Portfolio/blob/main/public/screenshot%202%20responsive.png?raw=true)
 
-![Screenshot 3 responsive](public/screenshot 3 responsive.png)
+![Screenshot 3 responsive](https://github.com/jmlmx/JM-Portfolio/blob/main/public/screenshot%203%20responsive.png?raw=true)
 
-![Screenshot 4 widescreen](public/screenshot 4 widescreen.png)
+![Screenshot 4 widescreen](https://github.com/jmlmx/JM-Portfolio/blob/main/public/screenshot%204%20widescreen.png?raw=true)
 
